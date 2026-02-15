@@ -56,7 +56,7 @@ Mis repositorios reflejan una mentalidad orientada a la eficiencia y la arquitec
   <sub>Nivel 2</sub>
 </td>
 </tr>
-<tr><td colspan="6"><strong>🟡 Colaboración</strong></td></tr>
+<tr><td colspan="6"><strong>🩷 Colaboración</strong></td></tr>
 <tr>
 <td align="center" width="80">
   <img src="https://raw.githubusercontent.com/jeremy-sud/boomflow/main/assets/badge-mentor.svg" width="48" height="48" alt="Mentor"/><br/>
@@ -64,7 +64,7 @@ Mis repositorios reflejan una mentalidad orientada a la eficiencia y la arquitec
   <sub>Nivel 1</sub>
 </td>
 </tr>
-<tr><td colspan="6"><strong>🔴 Liderazgo</strong></td></tr>
+<tr><td colspan="6"><strong>🟡 Liderazgo</strong></td></tr>
 <tr>
 <td align="center" width="80">
   <img src="https://raw.githubusercontent.com/jeremy-sud/boomflow/main/assets/badge-tech-lead.svg" width="48" height="48" alt="Tech Lead"/><br/>
