@@ -1,10 +1,9 @@
-## Hi there 👋 I'm jeremy-sud (Repdevursol)
+## Hi there 👋 I'm Jeremy Alva (Repdevursol)
 
 
 > **"No busco solo ejecutar, busco entender el engranaje del caos para darle orden a través del código."**
 
 
-Soy un desarrollador enfocado en construir soluciones robustas que resuelvan problemas reales. Mi enfoque combina la curiosidad analítica de mi blog personal con la ejecución técnica en sistemas de gestión, automatización e inteligencia artificial.
 
 
 ---
@@ -20,8 +19,6 @@ Mis repositorios reflejan una mentalidad orientada a la eficiencia y la arquitec
 * **Gestión y Finanzas:** Desarrollo de herramientas críticas como `SDC-ursol-contabilidad-`, `Finance-Dashboard_Ursol` y sistemas `POS_Ursol`.
 * **Logística y Operaciones:** Soluciones de movilidad y control con `Driver_App_Ursol` y `Stock_Checker_Ursol`.
 * **Infraestructura y Utilidades:** Optimización de flujos con `Ursol-CAST-API`, `boomflow` y `UrsolShortenLink`.
-
-
 
 
 ---
@@ -84,7 +81,6 @@ Mis repositorios reflejan una mentalidad orientada a la eficiencia y la arquitec
 
 
 ---
-
 
 
 
