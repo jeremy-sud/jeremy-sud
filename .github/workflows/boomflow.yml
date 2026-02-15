@@ -1,4 +1,4 @@
-name: Bloomflow Badge Sync
+name: Boomflow Badge Sync
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -11,8 +11,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: jeremy-sud/boomflow@main
         with:
-          bloomflow_token: ${{ secrets.BLOOMFLOW_TOKEN }}
+          boomflow_token: ${{ secrets.BOOMFLOW_TOKEN }}
           github_username: ${{ github.actor }}
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🌸 Update Bloomflow badges"
+          commit_message: "🌸 Update Boomflow badges"
