@@ -15,7 +15,16 @@ Mis repositorios reflejan una mentalidad orientada a la eficiencia y la arquitec
 * **Logística y Operaciones:** Soluciones de movilidad y control con `Driver_App_Ursol` y `Stock_Checker_Ursol`.
 * **Infraestructura y Utilidades:** Optimización de flujos con `Ursol-CAST-API`, `boomflow` y `UrsolShortenLink`.
 
+
 ---
+
+### 🏅 Mis Logros en Bloomflow
+
+<!-- BLOOMFLOW-BADGES-START -->
+<!-- BLOOMFLOW-BADGES-END -->
+
+---
+
 
 ### 🛠️ En qué estoy trabajando
 
