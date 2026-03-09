@@ -12,7 +12,7 @@
 ### 🚀 Proyectos Destacados (Ecosistema Ursol)
 
 
-Mis repositorios reflejan una mentalidad orientada a la eficiencia y la arquitectura de sistemas:
+Mis repositorios (en su mayoria privados) reflejan una mentalidad orientada a la eficiencia y la arquitectura de Sistemas Ursol:
 
 
 * **IA y Automatización:** Explorando el futuro con `Eon-AI-Project` y soluciones inteligentes.
