@@ -21,19 +21,6 @@ Mis repositorios (en su mayoria privados) reflejan una mentalidad orientada a la
 * **Infraestructura y Utilidades:** Optimización de flujos con `Ursol-CAST-API`, `boomflow`, etc.
 
 
----
-
-
-### 🛠️ En qué estoy trabajando
-
-
-- 🔭 **Actualmente trabajando en:** La expansión del ecosistema **Ursol**, integrando APIs más rápidas y sistemas de gestión más intuitivos.
-- 🌱 **Aprendiendo:** Perfeccionando arquitecturas escalables y nuevas formas de documentar el conocimiento técnico (como mis libros).
-- 💬 **Pregúntame sobre:** Contabilidad automatizada, gestión de flujos (Workflow), desarrollo de Dashboards financieros y por qué cuestiono todo antes de programarlo.
-- ⚡ **Dato curioso:** Mi proceso de desarrollo empieza desarmando la lógica del problema en papel antes de tocar el teclado.
-
-
----
 
 
 ### 📫 Conéctate conmigo
