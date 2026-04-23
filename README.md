@@ -3,8 +3,8 @@
 
 > **"No busco solo ejecutar, busco entender el engranaje del caos para darle orden a través del código."**
 
-
-
+<!-- BOOMFLOW-BADGES-START -->
+<!-- BOOMFLOW-BADGES-END -->
 
 ---
 
