@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jeremy Alva (Senselab)
 
 
-> **"No busco solo ejecutar, busco entender el engranaje del caos para darle orden a través del código."**
+> **"Build with Sense."**
 ---
 
 <!-- BOOMFLOW-BADGES-START -->
