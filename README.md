@@ -67,9 +67,9 @@ Mis repositorios (en su mayoria privados) reflejan una mentalidad orientada a la
 
 
 * **IA y Automatización:** Explorando el futuro con `Eon-AI-Project` y soluciones inteligentes.
-* **Gestión y Finanzas:** Desarrollo de herramientas críticas como `SDC-ursol-contabilidad-`, `Finance-Dashboard_Ursol` y sistemas `POS_Ursol`.
-* **Logística y Operaciones:** Soluciones de movilidad y control con `Driver_App_Ursol` y `Stock_Checker_Ursol`.
-* **Infraestructura y Utilidades:** Optimización de flujos con `Ursol-CAST-API`, `boomflow`, etc.
+* **Gestión y Finanzas:** Desarrollo de herramientas críticas como `SDC-Sense-contabilidad-`, `Finance-Dashboard_Sense` y sistemas `POS_Sense`.
+* **Logística y Operaciones:** Soluciones de movilidad y control con `Driver_App_Sense` y `Stock_Checker_Sense`.
+* **Infraestructura y Utilidades:** Optimización de flujos con [Senselab_Core_API](https://github.com/jeremy-sud/Senselab_Core_API) , `boomflow`, etc.
 
 
 
