@@ -54,16 +54,16 @@
 </tr>
 </table>
 
-> 🌸 Verified by [BOOMFLOW](https://github.com/jeremy-sud/boomflow-badges) @ [SistemasUrsol](https://www.ursol.com)
+> 🌸 Verified by [BOOMFLOW](https://github.com/jeremy-sud/boomflow-badges) @ [Senselab](http://github.com/SenseLab-dev)
 <!-- BOOMFLOW-BADGES-END -->
 
 ---
 
 
-### 🚀 Proyectos Destacados (Ecosistema Ursol)
+### 🚀 Proyectos Destacados (Ecosistema Senselab)
 
 
-Mis repositorios (en su mayoria privados) reflejan una mentalidad orientada a la eficiencia y la arquitectura de Sistemas Ursol:
+Mis repositorios (en su mayoria privados) reflejan una mentalidad orientada a la eficiencia y la arquitectura de Sistemas en Senselab:
 
 
 * **IA y Automatización:** Explorando el futuro con `Eon-AI-Project` y soluciones inteligentes.
@@ -75,8 +75,8 @@ Mis repositorios (en su mayoria privados) reflejan una mentalidad orientada a la
 
 
 ### 📫 Conéctate conmigo
-- 🌐 **Mi Biblioteca Digital:** [Repdevursol - MyBooks](https://sites.google.com/view/repdevursol/mybooks)
-- 💼 **Proyectos Corporativos:** [SistemasUrsol](https://github.com/SistemasUrsol)
+- 🌐 **Mi Biblioteca Digital:** [Repdevursol - MyBooks](https://sites.google.com/view/repdevursol/home)
+- 💼 **Proyectos Corporativos:** [SistemasUrsol](https://github.com/Senselab.dev)
 
 
 ---
