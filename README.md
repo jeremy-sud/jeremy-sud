@@ -54,7 +54,7 @@
 </tr>
 </table>
 
-> 🌸 Verified by [BOOMFLOW](https://github.com/jeremy-sud/boomflow-badges) @ [Senselab](http://github.com/SenseLab-dev)
+> 🌸 Verified by [BOOMFLOW](https://github.com/jeremy-sud/boomflow-badges) @ [SenseLab](https://github.com/SenseLab-dev)
 <!-- BOOMFLOW-BADGES-END -->
 
 ---
