@@ -76,7 +76,7 @@ Mis repositorios (en su mayoria privados) reflejan una mentalidad orientada a la
 
 ### 📫 Conéctate conmigo
 - 🌐 **Mi Biblioteca Digital:** [Repdevursol - MyBooks](https://sites.google.com/view/repdevursol/home)
-- 💼 **Proyectos Corporativos:** [SesnseLab](https://github.com/Senselab.dev)
+- 💼 **Proyectos Corporativos:** [SenseLab](https://github.com/Senselab.dev)
 
 
 ---
